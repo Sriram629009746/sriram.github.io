@@ -408,9 +408,9 @@ img{
 
 .about__data {
     text-align: center; /* Center-align text horizontally */
-    /* display: flex; 
-    flex-direction: column; */
-    /* align-items: center;  Center-align text vertically */
+    display: flex; 
+    flex-direction: column;
+    align-items: center;  Center-align text vertically */
 }
 
 .about__info{
